@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "GROOVY (OP ver.)",
+  "base_artist": "Lyn",
+  "createdAt": "2026-03-28T04:34:45.239693Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GROOVY - OP ver.",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/01_GROOVY_-_OP_ver._Lyn.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GROOVY (OP ver.)",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/02_GROOVY_(OP_ver.)_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GROOVY (OP ver.)",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/03_GROOVY_(OP_ver.)_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "GROOVY (OP ver.)",
+      "artist": "小塚良太",
+      "has_synced": true,
+      "path": "select/04_GROOVY_(OP_ver.)_小塚良太.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "GROOVY - OP ver.",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/05_GROOVY_-_OP_ver._Lyn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "GROOVY (OP ver.)",
+      "artist": "LYN",
+      "has_synced": false,
+      "path": "select/06_GROOVY_(OP_ver.)_LYN.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Groovy (OP ver.)",
+      "artist": "Ryota Kozuka",
+      "has_synced": true,
+      "path": "select/07_Groovy_(OP_ver.)_Ryota_Kozuka.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "GROOVY (OP ver.)",
+      "artist": "Lyn, Ryota Kozuka",
+      "has_synced": true,
+      "path": "select/08_GROOVY_(OP_ver.)_Lyn,_Ryota_Kozuka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GROOVY (OP ver.)",
+      "artist": "Lyn / アトラスサウンドチーム",
+      "has_synced": false,
+      "path": "select/pl_01_GROOVY_(OP_ver.)_Lyn___アトラスサウンドチーム.txt"
+    }
+  ]
+}
